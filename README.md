@@ -1,4 +1,4 @@
-# Collabrative_Editor
+# Collaborative_Editor
 
 "COMPANY": CODTECH IT SOLUTIONS
 
